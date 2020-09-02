@@ -6,3 +6,5 @@ GEOM3TR1C is a real-time rendering animation (Demoscene) utilizing DirectX API b
 ## User Controls
 - Press Space Bar to start playing the animation.
 - Press Alt+Enter to go full screen.
+
+#### More detail can be found in the PDF file in docs folder.
